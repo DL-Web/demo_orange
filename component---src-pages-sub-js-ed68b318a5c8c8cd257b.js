@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmock_04_corporate=self.webpackChunkmock_04_corporate||[]).push([[905],{4823:function(e,t,n){n.r(t);var c=n(7294),a=n(5414),l=n(6179);t.default=function(){return c.createElement(l.Z,null,c.createElement(a.q,{htmlAttributes:{lang:"ja"},title:"サブページ - Mock04",meta:[{name:"description",content:"このページはモックサイトです。"}]}),c.createElement("section",null,c.createElement("div",{className:"container"},c.createElement("h1",null,"こちらは配下ページです"))))}}}]);
+//# sourceMappingURL=component---src-pages-sub-js-ed68b318a5c8c8cd257b.js.map
